@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?&type=waving&color=100:ACC1FD,0:F9D9D7&height=250&section=header&text=Welcome%20to%20Seungju's%20GitHub&&fontSize=40" />
+ <img src="https://capsule-render.vercel.app/api?&type=waving&color=100:ACC1FD,0:F9D9D7&height=250&section=header&text=Welcome%20to%20Seungju's%20Page&&fontSize=40" />
 
 ### 🌱 About me 🌱
 <br>
