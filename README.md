@@ -26,7 +26,3 @@
   ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-ACC1FD.svg?style=for-the-badge)
   ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-F9D9D7.svg?style=for-the-badge)
 <br><br>
-
-### 🌱 Top languages used 🌱
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berryverry&include_all_commits=true&bg_color=30,6089FF,FEB6A2&title_color=fff&text_color=010512)
-<br><br>
