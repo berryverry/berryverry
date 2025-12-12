@@ -21,7 +21,6 @@
 <br>
 
 ### 🌱 What I'm interested in 🌱
-  ![ComputerVision](https://img.shields.io/badge/Computer%20Vision-F9D9D7.svg?style=for-the-badge)
   ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-ACC1FD.svg?style=for-the-badge)
   ![DeepLearning](https://img.shields.io/badge/Deep%20Learning-F9D9D7.svg?style=for-the-badge)
 <br><br>
